@@ -27,14 +27,14 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 
 <p align="center">
-    <img src= ‘https://github.com/kandularj/Revenue-Insights-of-Hospitality-Domain/blob/main/Data%20model.png' height="400">
+    <img src= "https://github.com/kandularj/Revenue-Insights-of-Hospitality-Domain/blob/main/Data%20model.png" height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src=https://github.com/kandularj/Revenue-Insights-of-Hospitality-Domain/blob/main/Dashboard.png' width="600">
+    <img src= "https://github.com/kandularj/Revenue-Insights-of-Hospitality-Domain/blob/main/Dashboard.png" width="600">
 </p>
 
 ## Learnt things from this Project 
